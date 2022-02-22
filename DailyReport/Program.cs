@@ -53,7 +53,7 @@ namespace DailyReport
             float studyHours = float.Parse(hoursStudied);
             
 
-            // This prints a message to the console
+            // This prints a message to the console!
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
             Console.ReadLine();
 
