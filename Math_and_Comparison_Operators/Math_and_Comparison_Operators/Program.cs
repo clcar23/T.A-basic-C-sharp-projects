@@ -25,9 +25,13 @@ namespace Math_and_Comparison_Operators
             Console.WriteLine("Please enter your hours worked per week: ");
             decimal hoursWorkedPerWeek2 = Convert.ToDecimal(Console.ReadLine());
 
-            // Here we do the calculations
-            decimal totalSalary1 = hourlyRate1 * hoursWorkedPerWeek1;
-            decimal totalSalary2 = hourlyRate2 * hoursWorkedPerWeek2;
+            // Here we do the calculations for the week
+            decimal total1 = hourlyRate1 * hoursWorkedPerWeek1;
+            // And here we do them for the year
+            decimal totalSalary1 = total1 * 52;
+            // Repeat from above
+            decimal total2 = hourlyRate2 * hoursWorkedPerWeek2;
+            decimal totalSalary2 = total2 * 52;
 
             // And give the total for each
             Console.WriteLine("Annual Salary of Person 1: ");
