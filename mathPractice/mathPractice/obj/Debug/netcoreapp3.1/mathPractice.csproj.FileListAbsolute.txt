@@ -1,0 +1,14 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\bin\Debug\netcoreapp3.1\mathPractice.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\bin\Debug\netcoreapp3.1\mathPractice.deps.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\bin\Debug\netcoreapp3.1\mathPractice.runtimeconfig.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\bin\Debug\netcoreapp3.1\mathPractice.runtimeconfig.dev.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\bin\Debug\netcoreapp3.1\mathPractice.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\bin\Debug\netcoreapp3.1\mathPractice.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\obj\Debug\netcoreapp3.1\mathPractice.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\obj\Debug\netcoreapp3.1\mathPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\obj\Debug\netcoreapp3.1\mathPractice.AssemblyInfoInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\obj\Debug\netcoreapp3.1\mathPractice.AssemblyInfo.cs
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\obj\Debug\netcoreapp3.1\mathPractice.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\obj\Debug\netcoreapp3.1\mathPractice.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\obj\Debug\netcoreapp3.1\mathPractice.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\mathPractice\mathPractice\obj\Debug\netcoreapp3.1\mathPractice.genruntimeconfig.cache
