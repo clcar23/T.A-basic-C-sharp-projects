@@ -1,0 +1,14 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.deps.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.runtimeconfig.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.runtimeconfig.dev.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.AssemblyInfoInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.AssemblyInfo.cs
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Boolean_Logic\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.genruntimeconfig.cache
