@@ -1,0 +1,7 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\while_do-while_console_app\while_do-while_console_app\bin\Debug\while_do-while_console_app.exe.config
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\while_do-while_console_app\while_do-while_console_app\bin\Debug\while_do-while_console_app.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\while_do-while_console_app\while_do-while_console_app\bin\Debug\while_do-while_console_app.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\while_do-while_console_app\while_do-while_console_app\obj\Debug\while_do-while_console_app.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\while_do-while_console_app\while_do-while_console_app\obj\Debug\while_do-while_console_app.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\while_do-while_console_app\while_do-while_console_app\obj\Debug\while_do-while_console_app.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\while_do-while_console_app\while_do-while_console_app\obj\Debug\while_do-while_console_app.pdb
