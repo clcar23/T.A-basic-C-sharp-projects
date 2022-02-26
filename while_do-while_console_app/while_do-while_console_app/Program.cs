@@ -14,12 +14,15 @@ namespace while_do_while_console_app
 
             Console.WriteLine("How are you doing today? Pick a number from 0-5.\n 5 = (Master of the Universe!!) - 0 = (The lowliest slug in the scum-pile)  \n >>>: ");
             int number = Convert.ToInt32(Console.ReadLine());
+            // This line states that the statement will be true when the number equals 5
             bool perfect = number == 5;
 
+            // Here is my 'do/while' loop
             do
             {
                 switch (number)
                 {
+                    // These lines check through the different unput cases and give the different outputs
                     case 0:
                         Console.WriteLine("You should seek professional help immediately, everything's gonna be ok buddy!");
                         Console.WriteLine("Feeling any better? Pick a number from 0-5.");
@@ -45,10 +48,12 @@ namespace while_do_while_console_app
                         Console.WriteLine("Feeling any better? Pick a number from 0-5.");
                         number = Convert.ToInt32(Console.ReadLine());
                         break;
+                    // Here is when the user inputs 5, the highest or 'truest' input
                     case 5:
                         Console.WriteLine("Congratulations on feeling amazing! Now go out there and make someone else feel amazing too!");
                         perfect = true;
                         break;
+                    // I put in a default if they guesses outside our range of numbers
                     default:
                         Console.WriteLine("I don't recognize that number, try something else.");
                         Console.WriteLine("How are you doing today? Pick a number from 0-5.");
@@ -56,6 +61,7 @@ namespace while_do_while_console_app
                         break;
                 }
             }
+            // Here is our while loop
             while (!perfect);
             
             Console.ReadLine();
