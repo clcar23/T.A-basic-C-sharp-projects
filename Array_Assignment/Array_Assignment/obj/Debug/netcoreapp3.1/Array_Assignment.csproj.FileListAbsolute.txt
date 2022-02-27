@@ -1,0 +1,14 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\obj\Debug\netcoreapp3.1\Array_Assignment.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\obj\Debug\netcoreapp3.1\Array_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\obj\Debug\netcoreapp3.1\Array_Assignment.AssemblyInfoInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\obj\Debug\netcoreapp3.1\Array_Assignment.AssemblyInfo.cs
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\obj\Debug\netcoreapp3.1\Array_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\bin\Debug\netcoreapp3.1\Array_Assignment.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\bin\Debug\netcoreapp3.1\Array_Assignment.deps.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\bin\Debug\netcoreapp3.1\Array_Assignment.runtimeconfig.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\bin\Debug\netcoreapp3.1\Array_Assignment.runtimeconfig.dev.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\bin\Debug\netcoreapp3.1\Array_Assignment.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\bin\Debug\netcoreapp3.1\Array_Assignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\obj\Debug\netcoreapp3.1\Array_Assignment.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\obj\Debug\netcoreapp3.1\Array_Assignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Array_Assignment\Array_Assignment\obj\Debug\netcoreapp3.1\Array_Assignment.genruntimeconfig.cache
