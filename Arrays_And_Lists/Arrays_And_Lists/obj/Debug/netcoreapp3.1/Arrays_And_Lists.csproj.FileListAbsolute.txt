@@ -1,0 +1,14 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\bin\Debug\netcoreapp3.1\Arrays_And_Lists.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\bin\Debug\netcoreapp3.1\Arrays_And_Lists.deps.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\bin\Debug\netcoreapp3.1\Arrays_And_Lists.runtimeconfig.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\bin\Debug\netcoreapp3.1\Arrays_And_Lists.runtimeconfig.dev.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\bin\Debug\netcoreapp3.1\Arrays_And_Lists.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\bin\Debug\netcoreapp3.1\Arrays_And_Lists.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\obj\Debug\netcoreapp3.1\Arrays_And_Lists.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\obj\Debug\netcoreapp3.1\Arrays_And_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\obj\Debug\netcoreapp3.1\Arrays_And_Lists.AssemblyInfoInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\obj\Debug\netcoreapp3.1\Arrays_And_Lists.AssemblyInfo.cs
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\obj\Debug\netcoreapp3.1\Arrays_And_Lists.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\obj\Debug\netcoreapp3.1\Arrays_And_Lists.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\obj\Debug\netcoreapp3.1\Arrays_And_Lists.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Arrays_And_Lists\Arrays_And_Lists\obj\Debug\netcoreapp3.1\Arrays_And_Lists.genruntimeconfig.cache

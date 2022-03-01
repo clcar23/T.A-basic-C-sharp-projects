@@ -35,6 +35,11 @@ namespace Array_Assignment
                 // Finally we concatenate and display their choices
                 Console.WriteLine("Congratulations, you are now " + stringArray[userNumber] + " " + funnyNames[userNumber3] + " and your IQ is " + numArray[userNumber2] + "!");
 
+                while (numArray[userNumber2] < 4)
+                {
+                    Console.WriteLine("Ouch that's not an impressive I.Q score is it?");
+                    numArray[userNumber2]++;
+                }
             }
             // And for those who don't follow instructions!
             else
