@@ -1,0 +1,13 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.deps.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.runtimeconfig.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.runtimeconfig.dev.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.AssemblyInfoInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.AssemblyInfo.cs
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.genruntimeconfig.cache
