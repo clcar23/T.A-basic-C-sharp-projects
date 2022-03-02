@@ -90,7 +90,7 @@ namespace ConsoleApp_Assignment
                 }
             if (userGuess != u)
             {
-                Console.WriteLine("Sorry, but " + userGuess + " in not on the list.");
+                Console.WriteLine("Sorry, but " + userGuess + " in not in this place on the list.");
             }
             }
 
@@ -132,36 +132,29 @@ namespace ConsoleApp_Assignment
 
             // ------- Code Block  -------
 
-            // First we create our list of strings
-            List<string> colors = new List<string> { "red", "blue", "yellow", "green", "purple", "orange", "black", "white", "brown", "pink", "red" };
-            // Console log our question
-            Console.WriteLine("What's your favorite color?");
-            // Save their answer to a variable
-            string favColor = Console.ReadLine();
-            // This variable will be our counter through the list
-            int colorValue = 1;
+            // First we create our list of strings, i have added in 'blue' twice
+            List<string> colors = new List<string> { "red", "blue", "yellow", "green", "purple", "orange", "black", "white", "brown", "pink", "blue" };
+            // Next is a second string, this one contains 'red' just as the string above
+            List<string> moreColors = new List<string> { "red", "teal", "tan", "aqua" };
 
             // Now we create a 'foreach' loop that evaluates each list item
-            foreach (string c in colors)
+            foreach (var c in colors)
             {
-                // This 'if' statement will check if their color matches one of ours
-                if (favColor == c)
+                // This 'if' statement will check if the second list matches any from the first
+                if (moreColors.Contains(c))
                 {
-                    // This will print the color and it's position on our list
-                    Console.WriteLine("This is where the color " + c + " is on our list! " + colorValue + " of " + colors.Count);
-                    // Now we add to the counter
-                    colorValue++;
+                    // This will print if any duplicates are found
+                    Console.WriteLine(c + " is already on our list!");
                 }
-                // If their color in not on the list, this will print instead.
+                // If the color is not on the list, the section will 'Add' it to the second list and this will print to the console.
                 else
                 {
-                    Console.WriteLine("Sorry but this is a different color.");
-                    // Here we still add to our counter
-                    colorValue++;
+                    moreColors.Add(c);
+                    Console.WriteLine(c + " is not on the list and will be added.");                   
                 }
             }
-
-
+            // This line will join our lists together
+            Console.WriteLine("Our list of colors with no duplicates: {0}", string.Join(", ", moreColors));
 
             Console.ReadLine();
 
