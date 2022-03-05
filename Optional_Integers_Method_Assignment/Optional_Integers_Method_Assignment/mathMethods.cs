@@ -6,20 +6,16 @@ using System.Threading.Tasks;
 
 namespace Optional_Integers_Method_Assignment
 {
+    // Creating the class
     public class mathMethods
     {
-        
-        public int calculate(int requiredInt, int optionalInt = 10)
+        // Here is the method that will be called, a required value, and an optional one with a default of zero
+        public int calculate(int requiredInt, int optionalInt = 0)
         {
-            
-            int result = requiredInt * optionalInt;
-            return result;
+            // Returning the two values added together
+            return requiredInt + optionalInt;
 
         }
 
-        internal static void calculate()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
