@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optional_Integers_Method_Assignment", "Optional_Integers_Method_Assignment\Optional_Integers_Method_Assignment.csproj", "{AD4AD5F2-06EA-4E8F-96C6-0D860CEB7D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4AD5F2-06EA-4E8F-96C6-0D860CEB7D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4AD5F2-06EA-4E8F-96C6-0D860CEB7D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4AD5F2-06EA-4E8F-96C6-0D860CEB7D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4AD5F2-06EA-4E8F-96C6-0D860CEB7D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02DC2BDB-5C09-47C9-BB88-E65D1A3D6394}
+	EndGlobalSection
+EndGlobal
