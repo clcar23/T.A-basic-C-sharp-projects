@@ -7,13 +7,15 @@ using System.Threading.Tasks;
 namespace Assignment_285
 {
 
-    class DivideByTwo
+    public class DivideByTwo
     {
-        // created a method to take input, perform math on it, send it back to main program
-        static void PrintQuotient(int num)
+       
+     
+        public void MyMath(int num, out int result)
         {
-            int result = num / 2;
-            Console.WriteLine("Your number {0}, divided by two is {1}.", num, result);
+            result = num / 2;
+            Console.WriteLine($"{num} divided by two = {result}.");
         }
+
     }
 }
