@@ -1,0 +1,7 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Assignment292_methods_and_objects\Assignment292_methods_and_objects\bin\Debug\Assignment292_methods_and_objects.exe.config
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Assignment292_methods_and_objects\Assignment292_methods_and_objects\bin\Debug\Assignment292_methods_and_objects.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Assignment292_methods_and_objects\Assignment292_methods_and_objects\bin\Debug\Assignment292_methods_and_objects.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Assignment292_methods_and_objects\Assignment292_methods_and_objects\obj\Debug\Assignment292_methods_and_objects.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Assignment292_methods_and_objects\Assignment292_methods_and_objects\obj\Debug\Assignment292_methods_and_objects.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Assignment292_methods_and_objects\Assignment292_methods_and_objects\obj\Debug\Assignment292_methods_and_objects.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Assignment292_methods_and_objects\Assignment292_methods_and_objects\obj\Debug\Assignment292_methods_and_objects.pdb
