@@ -9,13 +9,16 @@ namespace Optional_Integers_Method_Assignment
     // Creating the class
     public class mathMethods
     {
-        // Here is the method that will be called, a required value, and an optional one with a default of zero
-        public int calculate(int requiredInt, int optionalInt = 0)
+        // Here is the method that will be called, a required value, and an optional one with a default of one
+        public int calculate(int requiredInt, int optionalInt = 1)
         {
             // Returning the two values added together
-            return requiredInt + optionalInt;
-
+            int result = requiredInt + optionalInt;
+            return result;
         }
-
+  
     }
+        
+
+    
 }

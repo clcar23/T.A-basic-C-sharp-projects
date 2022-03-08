@@ -10,9 +10,7 @@ namespace Optional_Integers_Method_Assignment
     {
         static void Main(string[] args)
         {
-            // Using a try/ catch here in case the user doesn't want to play fair
-            try
-            {
+           
                 // Instatiating the class
                 mathMethods mathMethods = new mathMethods();
 
@@ -20,24 +18,27 @@ namespace Optional_Integers_Method_Assignment
                 Console.WriteLine("Please enter a whole number: ");
                 int requiredInt = Convert.ToInt32(Console.ReadLine());
 
-                // The next input is optional, if they don't enter a number, it will automatically be a zero
+                // Now we ask for the user to input a second number
                 Console.WriteLine("Please enter in another whole number, or don't, it doesn't matter: ");
-                int optionalInt = Convert.ToInt32(Console.ReadLine());
-                // I added in an 'if' statement to compensate for the user not typing anything at all
-                if (optionalInt == null)
-                {
-                    optionalInt = 0;
-                }
-
-                Console.WriteLine(mathMethods.calculate(requiredInt, optionalInt));
-   
-            }
-            // This will catch any errors from the user and give them a message
-            catch (SystemException)
+                
+            // Here we implement a try/catch block in case they dont submit a second number
+            try
             {
-                Console.WriteLine("You must at least type in a zero.");
+                int optionalInt = Convert.ToInt32(Console.ReadLine()); // convert their input to a string
+                int results = mathMethods.calculate(requiredInt, optionalInt); // get the results from our other class
+                Console.WriteLine(requiredInt + " + " + optionalInt + " = " + results); // display the results
             }
+            // if they do not submit a number, this block will run
+            catch
+            {
+                int results = mathMethods.calculate(requiredInt); // we get the results of the first number and ours combined
+                Console.WriteLine(requiredInt + " + (our number) = " + results); // and print the results
+            }
+
             Console.ReadLine();
+           
+            
+           
         }
             
                 
