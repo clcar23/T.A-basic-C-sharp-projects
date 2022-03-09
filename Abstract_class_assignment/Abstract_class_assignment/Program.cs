@@ -18,8 +18,12 @@ namespace Abstract_class_assignment
             employee.lastName = "Student";
 
             // call SayName method
-            employee.SayName(); 
+            employee.SayName();
 
+            // calling the quit method on employee
+            employee.Quit();
+
+           
 
             Console.ReadLine();
         }

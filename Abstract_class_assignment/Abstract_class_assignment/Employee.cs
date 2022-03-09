@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Abstract_class_assignment
 {
-    // Here we have class Emplyee inheriting from class Person
-    public class Employee : Person
+    // Here we have class Emplyee inheriting from class Person and Interface IQuittable
+    public class Employee : Person, IQuittable
     {
         // create the Id property
         public int Id { get; set; }
@@ -17,8 +17,15 @@ namespace Abstract_class_assignment
         {
             Console.WriteLine("Name: " + firstName + " " + lastName);   
         }
+        // implement the Quit method from IQuittable 
+        public void Quit()
+        {
+            
+            Console.WriteLine("I quit!");
+        }
 
-        
-      
+       
+
+
     }
 }
