@@ -12,7 +12,7 @@ namespace Abstract_class_assignment
         {
             // instantiate the employee object
             Employee employee = new Employee();
-
+            
             // created new objects with it
             employee.firstName = "Sample";
             employee.lastName = "Student";
@@ -23,12 +23,6 @@ namespace Abstract_class_assignment
             // calling the quit method on employee
             employee.Quit();
 
-           
-
-            Console.ReadLine();
         }
-
-            
-
     }
 }
