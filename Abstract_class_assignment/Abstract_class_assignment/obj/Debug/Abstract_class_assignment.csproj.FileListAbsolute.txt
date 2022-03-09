@@ -1,0 +1,7 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Abstract_class_assignment\Abstract_class_assignment\bin\Debug\Abstract_class_assignment.exe.config
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Abstract_class_assignment\Abstract_class_assignment\bin\Debug\Abstract_class_assignment.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Abstract_class_assignment\Abstract_class_assignment\bin\Debug\Abstract_class_assignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Abstract_class_assignment\Abstract_class_assignment\obj\Debug\Abstract_class_assignment.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Abstract_class_assignment\Abstract_class_assignment\obj\Debug\Abstract_class_assignment.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Abstract_class_assignment\Abstract_class_assignment\obj\Debug\Abstract_class_assignment.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Abstract_class_assignment\Abstract_class_assignment\obj\Debug\Abstract_class_assignment.pdb

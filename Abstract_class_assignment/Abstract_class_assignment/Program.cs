@@ -10,11 +10,18 @@ namespace Abstract_class_assignment
     {
         static void Main(string[] args)
         {
+            // instantiate the employee object
             Employee employee = new Employee();
+
+            // created new objects with it
             employee.firstName = "Sample";
             employee.lastName = "Student";
 
-            Person.SayName();
+            // call SayName method
+            employee.SayName(); 
+
+
+            Console.ReadLine();
         }
 
             
