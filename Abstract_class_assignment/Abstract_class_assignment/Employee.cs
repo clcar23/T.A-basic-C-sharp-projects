@@ -15,9 +15,18 @@ namespace Abstract_class_assignment
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
+        //created property Things with the data type as 'generic'<T>
+        //public List<T> Things { get; set; }
 
-        //overloading the '==' operator to check if two Employee objects are equal by comparing Id properties
-        public static bool operator ==(Employee employee1, Employee employee2)
+        // instantiated 
+        //public Employee<string> employee = new Employee<string>();
+        //public List<string> Staff = new List<string>() { "Captain", "Major", "Sargent", "Peon" };
+
+        
+            
+               
+    //overloading the '==' operator to check if two Employee objects are equal by comparing Id properties
+    public static bool operator ==(Employee employee1, Employee employee2)
         {
             return employee1.Id == employee2.Id;
         }
