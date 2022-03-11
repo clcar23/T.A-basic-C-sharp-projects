@@ -1,0 +1,14 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\bin\Debug\netcoreapp3.1\Parsing_Enums.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\bin\Debug\netcoreapp3.1\Parsing_Enums.deps.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\bin\Debug\netcoreapp3.1\Parsing_Enums.runtimeconfig.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\bin\Debug\netcoreapp3.1\Parsing_Enums.runtimeconfig.dev.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\bin\Debug\netcoreapp3.1\Parsing_Enums.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\bin\Debug\netcoreapp3.1\Parsing_Enums.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\obj\Debug\netcoreapp3.1\Parsing_Enums.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\obj\Debug\netcoreapp3.1\Parsing_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\obj\Debug\netcoreapp3.1\Parsing_Enums.AssemblyInfoInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\obj\Debug\netcoreapp3.1\Parsing_Enums.AssemblyInfo.cs
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\obj\Debug\netcoreapp3.1\Parsing_Enums.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\obj\Debug\netcoreapp3.1\Parsing_Enums.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\obj\Debug\netcoreapp3.1\Parsing_Enums.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Parsing_Enums\Parsing_Enums\obj\Debug\netcoreapp3.1\Parsing_Enums.genruntimeconfig.cache
