@@ -1,0 +1,14 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\netcoreapp3.1\DateTime_Assignment.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\netcoreapp3.1\DateTime_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\netcoreapp3.1\DateTime_Assignment.AssemblyInfoInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\netcoreapp3.1\DateTime_Assignment.AssemblyInfo.cs
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\netcoreapp3.1\DateTime_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\bin\Debug\netcoreapp3.1\DateTime_Assignment.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\bin\Debug\netcoreapp3.1\DateTime_Assignment.deps.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\bin\Debug\netcoreapp3.1\DateTime_Assignment.runtimeconfig.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\bin\Debug\netcoreapp3.1\DateTime_Assignment.runtimeconfig.dev.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\bin\Debug\netcoreapp3.1\DateTime_Assignment.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\bin\Debug\netcoreapp3.1\DateTime_Assignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\netcoreapp3.1\DateTime_Assignment.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\netcoreapp3.1\DateTime_Assignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\DateTime_Assignment\DateTime_Assignment\obj\Debug\netcoreapp3.1\DateTime_Assignment.genruntimeconfig.cache
