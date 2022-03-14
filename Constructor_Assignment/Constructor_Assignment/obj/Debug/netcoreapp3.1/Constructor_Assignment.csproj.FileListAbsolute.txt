@@ -1,0 +1,14 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.deps.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.runtimeconfig.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.runtimeconfig.dev.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\bin\Debug\netcoreapp3.1\Constructor_Assignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.AssemblyInfoInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.AssemblyInfo.cs
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Constructor_Assignment\Constructor_Assignment\obj\Debug\netcoreapp3.1\Constructor_Assignment.genruntimeconfig.cache
