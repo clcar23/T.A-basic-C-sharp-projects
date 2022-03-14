@@ -7,8 +7,8 @@ namespace DateTime_Assignment
     {
         public static void Main(string[] args)
         {
-            // getting the current datetime and printing it to the console, could type in the specifics but i left them out
-            DateTime currentTime = new DateTime();
+            // getting the current datetime and printing it to the console
+            DateTime currentTime = DateTime.Now;
             Console.WriteLine(currentTime);
 
             // aksing the user to input a number, saving that number to a variable, converting that value to a double
@@ -21,6 +21,6 @@ namespace DateTime_Assignment
 
             Console.ReadLine();
         }
-        public static DateTime Today { get; }
+        public static DateTime Now { get; set; }
     }
 }
