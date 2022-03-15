@@ -1,0 +1,7 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Try_Catch_Assignment\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.exe.config
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Try_Catch_Assignment\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Try_Catch_Assignment\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.pdb
