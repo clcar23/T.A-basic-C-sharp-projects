@@ -34,18 +34,18 @@ namespace Lambda_Expression
                 if (e.FirstName == "Joe")
                 {
                     joeList.Add(e);
-                    Console.WriteLine(e + "was added to the list.");
+                    Console.WriteLine(e.FirstName + " was added to the list.");
                 }
             }
 
             // created a lambda expression to do the same only shortened, then print to the console
             List<Employee> newList1 = employee.Where(x => x.FirstName == "Joe").ToList();
-            newList1.ForEach(x => Console.WriteLine(x));
+            newList1.ForEach(x => Console.WriteLine(x.FirstName));
             
 
             // created an expression to go thru the list and create a new list with Id's greater than 5
             List<Employee> newList2 = employee.Where(y => y.Id > 5).ToList();
-            
+            newList2.ForEach(y => Console.WriteLine(y.Id));
             Console.ReadLine();
 
             
