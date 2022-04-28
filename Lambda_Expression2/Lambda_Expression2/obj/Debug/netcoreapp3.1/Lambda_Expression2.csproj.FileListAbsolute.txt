@@ -1,0 +1,14 @@
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\bin\Debug\netcoreapp3.1\Lambda_Expression2.exe
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\bin\Debug\netcoreapp3.1\Lambda_Expression2.deps.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\bin\Debug\netcoreapp3.1\Lambda_Expression2.runtimeconfig.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\bin\Debug\netcoreapp3.1\Lambda_Expression2.runtimeconfig.dev.json
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\bin\Debug\netcoreapp3.1\Lambda_Expression2.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\bin\Debug\netcoreapp3.1\Lambda_Expression2.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\obj\Debug\netcoreapp3.1\Lambda_Expression2.csproj.AssemblyReference.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\obj\Debug\netcoreapp3.1\Lambda_Expression2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\obj\Debug\netcoreapp3.1\Lambda_Expression2.AssemblyInfoInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\obj\Debug\netcoreapp3.1\Lambda_Expression2.AssemblyInfo.cs
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\obj\Debug\netcoreapp3.1\Lambda_Expression2.csproj.CoreCompileInputs.cache
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\obj\Debug\netcoreapp3.1\Lambda_Expression2.dll
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\obj\Debug\netcoreapp3.1\Lambda_Expression2.pdb
+C:\Users\clcar\OneDrive\Documents\GitHub\T.A-basic-C-sharp-projects\Lambda_Expression2\Lambda_Expression2\obj\Debug\netcoreapp3.1\Lambda_Expression2.genruntimeconfig.cache
